@@ -1,7 +1,7 @@
 name: brandonrike
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.37266
+typography_spectrum: 0.44392
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.384404634591192
-  lightness: 0.21525133796967566
-  saturation: 0.1964490117970854
-  rhythmicContrast: 0.6382998635526747
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
